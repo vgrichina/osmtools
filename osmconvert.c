@@ -10761,7 +10761,7 @@ static bool assistant(int* argcp,char*** argvp) {
     "If you are familiar with the command line, press <Return>.\n"
     "\n"
     "If you do not know how to operate the command line, please\n"
-    "enter \"a\" (press key E and hit <Return>).\n"
+    "enter \"a\" (press key A and hit <Return>).\n"
     ,
     "\n"
     "osmconvert "VERSION"\n"
